@@ -1,0 +1,1 @@
+C:\Users\Janek\Documents\Robocze\HELION\ksiazki\HF C#\kody\Rozdzial_13\_DisposeKontraFinalizatory\bin\Debug\DisposeVersusFinalizer.exe.config
